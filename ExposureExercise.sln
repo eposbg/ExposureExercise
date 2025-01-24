@@ -5,7 +5,7 @@ VisualStudioVersion = 17.8.34511.84
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExposureExercise", "ExposureExercise\ExposureExercise.csproj", "{C59F538D-FC16-4BDA-B5C9-C0F3966505D7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExposureExercise.Tests", "..\ExposureExercise.Tests\ExposureExercise.Tests.csproj", "{DF9410A1-033E-463D-B1C3-0FE937453108}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExposureExercise.Tests", "ExposureExercise.Tests\ExposureExercise.Tests.csproj", "{DF9410A1-033E-463D-B1C3-0FE937453108}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
