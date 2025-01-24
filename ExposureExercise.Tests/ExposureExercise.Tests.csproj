@@ -17,7 +17,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\ExposureExercise\ExposureExercise\ExposureExercise.csproj" />
+    <ProjectReference Include="..\ExposureExercise\ExposureExercise.csproj" />
   </ItemGroup>
 
   <ItemGroup>
